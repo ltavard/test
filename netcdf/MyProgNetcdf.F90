@@ -3,5 +3,6 @@
         print*, 'In My Prog'
         ! Add Modif1
         print*, 'Modif1'
-
+        ! Add Modif2
+        print*, 'Modif2'
       End program
